@@ -1,0 +1,15 @@
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/bin/Debug/net5.0/Csharp.deps.json
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.json
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.dev.json
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/bin/Debug/net5.0/Csharp.dll
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/bin/Debug/net5.0/ref/Csharp.dll
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/bin/Debug/net5.0/Csharp.pdb
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.csproj.AssemblyReference.cache
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfoInputs.cache
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfo.cs
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.dll
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/ref/Csharp.dll
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.pdb
+/Users/hubertmalinowski/Documents/Programowanie/Csharp/obj/Debug/net5.0/Csharp.genruntimeconfig.cache
